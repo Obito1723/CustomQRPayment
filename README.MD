@@ -61,7 +61,7 @@ pyinstaller --onefile --noconsole --icon=Assets\Icon.ico main.py
 The generated EXE will appear inside the **dist** folder.
 
 ## 📸 Preview
-![App Screenshot](Assets/Preview1.jpg)
+![App Screenshot](Asset/Preview1.jpg)
 
 ## 🏆 Credits
 Developed by **Atharva Nitin Bhoir** 💻  
