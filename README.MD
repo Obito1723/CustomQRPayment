@@ -34,8 +34,7 @@ QR-App/
 ## ⚙️ Run Locally
 
 1. Clone the repository:
-   ```bash
- https://github.com/Obito1723/CustomQRPayment
+   ```bash https://github.com/Obito1723/CustomQRPayment
    ```
 
 2. Navigate into the project folder:
