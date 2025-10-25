@@ -62,6 +62,10 @@ The generated EXE will appear inside the **dist** folder.
 
 ## 📸 Preview
 ![App Screenshot](Asset/Preview1.jpg)
+![App Screenshot](Asset/Preview2.jpg)
+![App Screenshot](Asset/Preview3.jpg)
+![App Screenshot](Asset/Preview4.jpg)
+![App Screenshot](Asset/Preview5.jpg)
 
 ## 🏆 Credits
 Developed by **Atharva Nitin Bhoir** 💻  
